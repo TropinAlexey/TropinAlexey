@@ -6,13 +6,13 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I help businesses get more from their technology. With a decade of hands-on experience in relational databases and full-stack ASP.NET development, I design and build solutions that are both technically sound and genuinely useful. My goal is simple: create systems that work reliably and deliver value from day one.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend**
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -31,7 +31,7 @@ I help businesses get more from their technology. With a decade of hands-on expe
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### 🏥 .NET Backend Developer — [Lakmus Medical](https://lakmus.org)
 **Jul 2020 – Present · 5+ years · Remote**
@@ -51,7 +51,7 @@ SaaS management system for small and medium-sized private clinics.
 
 ---
 
-### 🔗 .NET Developer — Virtuace, Inc.
+### .NET Developer — Virtuace, Inc.
 **Jun 2019 – May 2020 · 1 year · Contract**
 
 - Intersystem backend integration in the insurance domain
@@ -79,7 +79,7 @@ Enterprise implementation and development on Allegro CTRM for commodity trading 
 
 ---
 
-### 🧩 Developer (Siebel CRM, Oracle BI) — Areon Consulting
+### Developer (Siebel CRM, Oracle BI) — Areon Consulting
 **Apr 2012 – Jan 2014 · ~2 years · Kyiv**
 
 - Siebel CRM development, configuration, and 3rd-party integrations
@@ -91,7 +91,7 @@ Enterprise implementation and development on Allegro CTRM for commodity trading 
 
 ---
 
-### 🗄️ DBA — Brain Energy
+### DBA — Brain Energy
 **Sep 2008 – May 2011 · ~3 years · Ukraine**
 
 - Relational database administration: MS SQL, Oracle, PostgreSQL
@@ -103,21 +103,21 @@ Enterprise implementation and development on Allegro CTRM for commodity trading 
 
 ---
 
-## 🎓 Education
+## Education
 
 **Master's degree — Computer Systems and Networks**
 Sevastopol State Technical University · 2001–2006
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - **ASP.NET (Core) MVC, HTML/CSS, JavaScript, C#, and SQL** — TestDome (Dec 2019)
 - **C#** — TestDome (Dec 2019)
 
 ---
 
-## 🌍 Languages
+## Languages
 
 | Language   | Level                      |
 |------------|----------------------------|
@@ -129,7 +129,7 @@ Sevastopol State Technical University · 2001–2006
 
 ---
 
-## 💬 Recommendation
+## Recommendation
 
 > *"Alexey is a guy who knows what he's doing, who doesn't fear any difficulties and problems in everyday work, who can help you easily. A responsible worker, with strong skills in Allegro, object-oriented programming, vision of the system in general, and potential to grow. A positive and really comfortable person to work with."*
 >
