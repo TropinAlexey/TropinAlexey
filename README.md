@@ -8,7 +8,7 @@
 
 ## About Me
 
-I help businesses get more from their technology. With a decade of hands-on experience in relational databases and full-stack ASP.NET development, I design and build solutions that are both technically sound and genuinely useful. My goal is simple: create systems that work reliably and deliver value from day one.
+Dotnet backend devops programmer that always automates his work
 
 ---
 
