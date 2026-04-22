@@ -1,14 +1,9 @@
 # Alexey Tropin
-### .NET Backend Developer · Croatia
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexey-tropin-6692731a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:)
-
-# Alexey Tropin
 
 ### .NET Backend Developer · Croatia (EU) · Remote
 
-[LinkedIn badge] [Email badge]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexey-tropin-6692731a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:)
 
 ---
 
